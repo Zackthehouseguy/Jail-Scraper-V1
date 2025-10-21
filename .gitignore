@@ -1,0 +1,6 @@
+mugshot_data/
+scraper_cache/
+*.log
+__pycache__/
+*.pyc
+.DS_Store
